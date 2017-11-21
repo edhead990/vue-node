@@ -1,2 +1,2 @@
 # vue-node
-Learning to build an web app using Node, Express, MongoDB, and Vue.
+Learning to build a web app using Node, Express, MongoDB, and Vue.
